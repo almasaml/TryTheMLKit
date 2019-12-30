@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Try The ML Kit</string>
+
+    <string name="access_camera_permission_rationale_title">Access camera permission required </string>
+    <string name="access_camera_permission_rationale_message">In order to check the camera, you must grant this permission
+    </string>
+    <string name="access_camera_permission_denied_message">Access camera permission is required</string>
+
+</resources>

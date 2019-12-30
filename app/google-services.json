@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555662024490",
+    "firebase_url": "https://try-the-ml-kit.firebaseio.com",
+    "project_id": "try-the-ml-kit",
+    "storage_bucket": "try-the-ml-kit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555662024490:android:4d752918e1530c7c938853",
+        "android_client_info": {
+          "package_name": "com.riluq.trythemlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555662024490-5lvnnphk8o9pnc2ge99ijlulqqt453m6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.riluq.trythemlkit",
+            "certificate_hash": "3edcad4d4c09136fbc39b176013697e79a6eb395"
+          }
+        },
+        {
+          "client_id": "555662024490-0bt3ipen7f6oha0o0h25ofkkuqm2lbl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ySwNg3f5EPgg0BDjdHgjM-eufFH_WGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555662024490-0bt3ipen7f6oha0o0h25ofkkuqm2lbl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
